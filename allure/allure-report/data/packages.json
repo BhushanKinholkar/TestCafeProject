@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Login page test cases",
+    "children" : [ {
+      "name" : "Login the application",
+      "uid" : "18204fd3c300b15b",
+      "parentUid" : "4be15fb39c4cba564622803af15ab9f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648648683904,
+        "stop" : 1648648705516,
+        "duration" : 21612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome 100.0.4896.60 / Windows 10" ]
+    } ],
+    "uid" : "4be15fb39c4cba564622803af15ab9f4"
+  } ]
+}

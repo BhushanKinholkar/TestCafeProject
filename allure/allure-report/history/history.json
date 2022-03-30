@@ -1,0 +1,22 @@
+{
+  "ddbecf1165ad3cd9e58778a0839043d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18204fd3c300b15b",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1648648683904,
+        "stop" : 1648648705516,
+        "duration" : 21612
+      }
+    } ]
+  }
+}
