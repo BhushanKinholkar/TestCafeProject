@@ -1,12 +1,12 @@
 {
-  "uid" : "18204fd3c300b15b",
+  "uid" : "1389d74242b78632",
   "name" : "Login the application",
   "fullName" : "Login page test cases.Login the application",
   "historyId" : "ddbecf1165ad3cd9e58778a0839043d5",
   "time" : {
-    "start" : 1648648683904,
-    "stop" : 1648648705516,
-    "duration" : 21612
+    "start" : 1648710755446,
+    "stop" : 1648710777103,
+    "duration" : 21657
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "18204fd3c300b15b.json",
+  "source" : "1389d74242b78632.json",
   "parameterValues" : [ "Chrome 100.0.4896.60 / Windows 10" ]
 }
