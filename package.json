@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "clearreport":"npm run allure:clear",
-    "test:chrome": "testcafe chrome ./tests/file.test.js -s takeOnFails = true --disable-page-caching",
+    "test:chrome": "testcafe chrome ./tests/file.test.js -s takeOnFails = true --disable-page-caching --reporter allure",
     "test:chrome:headless": "testcafe chrome:headless ./tests",
     "test:chrome:mobile": "testcafe chrome:emulation:device=iphone X ./tests",
     "test:firefox": "testcafe firefox ./tests",
