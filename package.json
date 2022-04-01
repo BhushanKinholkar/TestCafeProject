@@ -9,7 +9,7 @@
     "test:chrome:headless": "testcafe chrome:headless ./tests",
     "test:chrome:mobile": "testcafe chrome:emulation:device=iphone X ./tests",
     "test:firefox": "testcafe firefox ./tests",
-    "test:report":"allure generate allure/allure-results --clean -o allure/allure-report && allure open allure/allure-report"
+    "test:report":"allure generate allure/allure-results --clean -o allure/allure-report"
     
    
 
