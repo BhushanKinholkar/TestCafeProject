@@ -1,15 +1,14 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "name" : "timeline",
   "children" : [ {
     "name" : "Login the application",
-    "uid" : "a99e0c1004f95196",
+    "uid" : "e26409aef55a2c40",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1648801137164,
-      "stop" : 1648801157255,
-      "duration" : 20091
+      "start" : 1648980023857,
+      "stop" : 1648980047848,
+      "duration" : 23991
     },
     "flaky" : false,
     "newFailed" : false,
@@ -18,5 +17,6 @@
     "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "Chrome 100.0.4896.60 / Windows 10" ]
-  } ]
+  } ],
+  "name" : "timeline"
 }

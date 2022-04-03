@@ -1,17 +1,16 @@
 {
-  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
-  "name" : "packages",
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "children" : [ {
     "name" : "Login page test cases",
     "children" : [ {
       "name" : "Login the application",
-      "uid" : "a99e0c1004f95196",
-      "parentUid" : "4be15fb39c4cba564622803af15ab9f4",
+      "uid" : "e26409aef55a2c40",
+      "parentUid" : "b56e3a5823314ada1f4ca837f605af08",
       "status" : "passed",
       "time" : {
-        "start" : 1648801137164,
-        "stop" : 1648801157255,
-        "duration" : 20091
+        "start" : 1648980023857,
+        "stop" : 1648980047848,
+        "duration" : 23991
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,6 +20,7 @@
       "retriesStatusChange" : false,
       "parameters" : [ "Chrome 100.0.4896.60 / Windows 10" ]
     } ],
-    "uid" : "4be15fb39c4cba564622803af15ab9f4"
-  } ]
+    "uid" : "b56e3a5823314ada1f4ca837f605af08"
+  } ],
+  "name" : "suites"
 }

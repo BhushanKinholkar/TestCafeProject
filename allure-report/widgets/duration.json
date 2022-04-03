@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e26409aef55a2c40",
+  "name" : "Login the application",
+  "time" : {
+    "start" : 1648980023857,
+    "stop" : 1648980047848,
+    "duration" : 23991
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
