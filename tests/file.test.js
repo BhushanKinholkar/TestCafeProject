@@ -9,11 +9,13 @@ fixture `Login page test cases`
 
 const filepage = new FilePage()
 
-test('Login the application', async t =>
+test('Enter the first username', async t =>
 {
-
-    await t.setTestSpeed(0.1)
     await filepage.firstname_Method(testdatajson.Firstname)
+})
+
+test('Enter the Second username', async t =>
+{
     await filepage.lastname_Method(testdatajson.Lastname)
 
 })
