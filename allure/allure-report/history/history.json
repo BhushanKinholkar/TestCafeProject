@@ -1,0 +1,22 @@
+{
+  "806bb938bbfb9c8027ce860ef5765575" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60e081a30f127549",
+      "status" : "passed",
+      "statusDetails" : "This test has been passed.",
+      "time" : {
+        "start" : 1651219947570,
+        "stop" : 1651219969465,
+        "duration" : 21895
+      }
+    } ]
+  }
+}

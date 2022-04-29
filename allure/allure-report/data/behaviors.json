@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Login the application",
+    "uid" : "60e081a30f127549",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1651219947570,
+      "stop" : 1651219969465,
+      "duration" : 21895
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "Chrome 100.0.4896.127 / Windows 10" ]
+  } ]
+}

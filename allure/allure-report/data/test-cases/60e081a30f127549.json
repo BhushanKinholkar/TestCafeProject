@@ -1,0 +1,58 @@
+{
+  "uid" : "60e081a30f127549",
+  "name" : "Login the application",
+  "fullName" : "Login page test cases.Login the application",
+  "historyId" : "806bb938bbfb9c8027ce860ef5765575",
+  "time" : {
+    "start" : 1651219947570,
+    "stop" : 1651219969465,
+    "duration" : 21895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login page test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Login page test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login the application"
+  }, {
+    "name" : "package",
+    "value" : "Login page test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 100.0.4896.127 / Windows 10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60e081a30f127549.json",
+  "parameterValues" : [ "Chrome 100.0.4896.127 / Windows 10" ]
+}

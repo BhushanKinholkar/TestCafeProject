@@ -1,16 +1,16 @@
 <?xml version='1.0'?>
-<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648980023857' stop='1648980023858'>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1651219947570' stop='1651219947571'>
     <name>Login page test cases</name>
     <title>Login page test cases</title>
     <test-cases>
-        <test-case start='1648980023857' status='passed' stop='1648980047848'>
+        <test-case start='1651219947570' status='passed' stop='1651219969465'>
             <name>Login the application</name>
             <title>Login the application</title>
             <labels>
                 <label name='severity' value='undefined'/>
             </labels>
             <parameters>
-                <parameter kind='argument' name='User Agent' value='Chrome 100.0.4896.60 / Windows 10'/>
+                <parameter kind='argument' name='User Agent' value='Chrome 100.0.4896.127 / Windows 10'/>
             </parameters>
             <steps/>
             <attachments/>
